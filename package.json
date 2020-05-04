@@ -1,0 +1,14 @@
+{
+	"name": "silenttime",
+	"version": "1.0.0",
+	"description": "SilentTime Discord Bot",
+	"main": "index.js",
+	"scripts": {
+		"test": "node index.js"
+	},
+	"author": "NTaheij",
+	"license": "MIT",
+	"dependencies": {
+		"discord.js": "^12.2.0"
+	}
+}
