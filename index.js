@@ -49,4 +49,5 @@ bot.on('message', async (message) => {
 	}
 });
 
+// Add Token
 bot.login(botconfig.token);
